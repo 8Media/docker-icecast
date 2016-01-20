@@ -1,5 +1,4 @@
-#FROM ubuntu:trusty
-FROM phusion/baseimage
+FROM ubuntu:trusty
 
 MAINTAINER Manfred Touron "m@42.am"
 
